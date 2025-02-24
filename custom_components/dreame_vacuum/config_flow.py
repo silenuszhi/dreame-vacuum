@@ -205,6 +205,7 @@ DREAME_MODELS = [
     "dreame.vacuum.r9421",
     "dreame.vacuum.r9422",
     "dreame.vacuum.r9428",
+    "dreame.vacuum.r9441",
 ]
 
 MIJIA_MODELS = [
